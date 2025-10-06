@@ -26,7 +26,8 @@
 - Proje klasöründe:
 ```bash
 dotnet build
-dotnet run 
+dotnet run
+```
 Not: Uygulama açık kaldığı sürece sayaç çalışır. Otomatik başlangıç istenirse Windows Görev Zamanlayıcı kullanılabilir.
 
 Kullanım
