@@ -92,4 +92,6 @@ Katkı ve Lisans
 
 Katkılar memnuniyetle kabul edilir; lütfen kısa bir açıklama ile PR açın.
 Lisans: MIT
+
+
 https://youtu.be/El-TE_o_ft0 bu link ile proje videosunu izleyebilirsiniz 
